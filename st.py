@@ -10,6 +10,7 @@ import pandas as pd
 import numpy as np
 import time
 
+st.write('Dice Game')
 #latest_iteration = st.empty()
 '''
 # Hacker statistics
